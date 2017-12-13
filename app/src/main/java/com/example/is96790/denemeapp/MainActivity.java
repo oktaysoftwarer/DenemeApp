@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         basbutton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                     basTextview.setText("Oktay");
+                    //
             }
         });
     }
